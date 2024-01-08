@@ -1,5 +1,5 @@
 # Hi there! 👋
-Hello there! I'm Éwerton Ferreira, a passionate and enthusiastic learner diving into the world of web development. 🚀
+I'm Éwerton Ferreira, a passionate and enthusiastic learner diving into the world of web development. 🚀
 Currently honing my skills in Blazor, C#, and JavaScript, I'm on a mission to build awesome and interactive web applications.
 
 ## 🌱 About Me
