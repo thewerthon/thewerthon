@@ -2,10 +2,10 @@
 I'm Éwerton Ferreira, a passionate and enthusiastic learner diving into the world of web development. 🚀<br>
 Currently honing my skills in Blazor, C#, and JavaScript, I'm on a mission to build awesome and interactive web applications.<br><br>
 <a href="https://github.com/thewerthon?tab=repositories">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=thewerthon&hide=contribs&show_icons=true&bg_color=00000000" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=thewerthon&hide=contribs&show_icons=true&bg_color=00000000" />
 </a>
 <a href="https://github.com/thewerthon?tab=repositories">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewerthon&layout=compact&langs_count=8" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewerthon&layout=compact&langs_count=8" />
 </a>
 
 ## 🌱 About Me
