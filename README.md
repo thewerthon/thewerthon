@@ -23,7 +23,7 @@ Currently honing my skills in Blazor, C#, and JavaScript, I'm on a mission to bu
 
 ## 🌐 Projects
 I am actively engaged in the development of the **Hephaestus** software project, a comprehensive Production Control system tailored for the needs of our organization where I am currently employed.<br><br>
-[![Hephaestus](https://github-readme-stats.vercel.app/api/pin/?username=thewerthon&repo=hephaestus)](https://github.com/thewerthon/Hephaestus)
+[![Hephaestus](https://github-readme-stats.vercel.app/api/pin/?username=thewerthon&repo=hephaestus&bg_color=00000000)](https://github.com/thewerthon/Hephaestus)
 
 ## 🤝 Let's Connect
 I'm always open to connecting with fellow developers, learners, and tech enthusiasts. Feel free to reach out for collaborations, advice, or just a friendly chat!
